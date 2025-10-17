@@ -1,3 +1,4 @@
+*Note: This repository orignates from Karpathy's famous [nanoGPT](https://github.com/karpathy/nanoGPT).*
 
 # milliGPT
 
